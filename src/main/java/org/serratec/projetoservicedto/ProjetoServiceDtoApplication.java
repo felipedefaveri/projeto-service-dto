@@ -1,4 +1,4 @@
-git config package org.serratec.projetoservicedto;
+package org.serratec.projetoservicedto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
